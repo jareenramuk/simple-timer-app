@@ -1,0 +1,21 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.timer-container {
+    text-align: center;
+}
+
+#timer {
+    font-size: 3em;
+}
+
+.controls button {
+    font-size: 1em;
+    margin: 0 5px;
+    padding: 5px 10px;
+}
